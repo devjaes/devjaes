@@ -1,4 +1,4 @@
-![ProfileBanner](https://github.com/jairdevt/jairdevt/blob/main/img/banner2.jpg)
+![ProfileBanner](https://github.com/jairdevt/jairdevt/blob/main/img/banner.jpg)
 
 ### About me🧑:
 I'm a Software Engineering student with a passion for backend development and cloud technology, especially AWS. I also have basic knowledge in frontend. My focus lies in machine learning and deep learning.
@@ -12,7 +12,6 @@ I'm a Software Engineering student with a passion for backend development and cl
 - 💬 You can ask me about Frontend, Backend, and Machine Learning.
 - ⚡ Fun fact: I 💖 to develop 24x7.
 
-<br/>
 <br/>
 <br/>
 <br/>
