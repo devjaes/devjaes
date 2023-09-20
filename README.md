@@ -1,4 +1,4 @@
-![ProfileBanner](https://github.com/jairdevt/jairdevt/blob/main/img/banner.jpg)
+![ProfileBanner](https://github.com/devjaes/devjaes/blob/main/img/banner.jpg)
 
 ### About me🧑:
 I'm a Software Engineering student with a passion for backend development and cloud technology, especially AWS. I also have basic knowledge in frontend. My focus lies in machine learning and deep learning.
@@ -48,7 +48,7 @@ Connect with me🤝:
 <br/>
 <br/>
 
-<a href="https://github.com/jairdevt">
+<a href="https://github.com/devjaes">
   <img align="left" alt="Jair's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
@@ -68,12 +68,12 @@ Connect with me🤝:
 
 ### Github Activity ✔:
 
-<a href="https://github.com/jairdevt">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairdevt&theme=tokyonight" />
+<a href="https://github.com/devjaes">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjaes&theme=tokyonight" />
   </a>
 
-<a href="https://github.com/jairdevt">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jairdevt&show_icons=true&theme=tokyonight&line_height=27" alt="Jair's github stats"/>
+<a href="https://github.com/devjaes">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=devjaes&show_icons=true&theme=tokyonight&line_height=27" alt="Jair's github stats"/>
 </a>
 
 <br/>
@@ -85,22 +85,22 @@ Connect with me🤝:
 
 ### My Projects ✨:
   
-<a href="https://https://github.com/jairdevt/pos_system_front">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jairdevt&repo=pos_system_front&theme=tokyonight" />
+<a href="https://https://github.com/devjaes/pos_system_front">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devjaes&repo=pos_system_front&theme=tokyonight" />
 </a>
 
-<a href="https://https://github.com/jairdevt/lookpay_back">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jairdevt&repo=lookpay_back&theme=tokyonight" />
+<a href="https://https://github.com/devjaes/lookpay_back">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devjaes&repo=lookpay_back&theme=tokyonight" />
 </a>
 
 
 <div align="center">
   
 
-### Show ❤️ by 🌟 my [repositories](https://github.com/jairdevt?tab=repositories)!
+### Show ❤️ by 🌟 my [repositories](https://github.com/devjaes?tab=repositories)!
 
 </div>
 -----
-Credits: [jairdevt](https://github.com/jairdevt)
+Credits: [devjaes](https://github.com/devjaes)
 
 Last Edited on: 19/09/2023
