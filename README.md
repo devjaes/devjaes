@@ -20,9 +20,9 @@ I'm a Software Engineering student with a passion for backend development and cl
 ---
 
 
-<strogn>
+<strong>
 Languages and Tools🛠:
-</strogn>
+</strong>
 
   <br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -37,7 +37,7 @@ Languages and Tools🛠:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/supabase/supabase.png"></code>
 <code><img height="20" src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg"></code>
 <code><img height="20" src="https://icons-for-free.com/iconfiles/png/512/framework+spring-1330884298236785333.png"></code>
-
+<br/>
 
 <strong>
 Connect with me🤝:
