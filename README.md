@@ -1,4 +1,4 @@
-![ProfileBanner](https://github.com/jairdevt/jairdevt/blob/main/img/banner.jpg)
+![ProfileBanner](https://github.com/jairdevt/jairdevt/blob/main/img/banner2.jpg)
 
 ### About me🧑:
 I'm a Software Engineering student with a passion for backend development and cloud technology, especially AWS. I also have basic knowledge in frontend. My focus lies in machine learning and deep learning.
