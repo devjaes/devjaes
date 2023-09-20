@@ -16,9 +16,6 @@ I'm a Software Engineering student with a passion for backend development and cl
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
 
 ---
