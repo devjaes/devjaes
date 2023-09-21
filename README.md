@@ -85,11 +85,11 @@ Connect with me🤝:
 
 ### My Projects ✨:
   
-<a href="https://https://github.com/devjaes/pos_system_front">
+<a href="https://github.com/devjaes/pos_system_front">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devjaes&repo=pos_system_front&theme=tokyonight" />
 </a>
 
-<a href="https://https://github.com/devjaes/lookpay_back">
+<a href="https://github.com/devjaes/lookpay_back">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devjaes&repo=lookpay_back&theme=tokyonight" />
 </a>
 
