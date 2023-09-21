@@ -98,9 +98,3 @@ Connect with me🤝:
   
 
 ### Show ❤️ by 🌟 my [repositories](https://github.com/devjaes?tab=repositories)!
-
-</div>
------
-Credits: [devjaes](https://github.com/devjaes)
-
-Last Edited on: 19/09/2023
