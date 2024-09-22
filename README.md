@@ -1,16 +1,16 @@
 ![ProfileBanner](https://github.com/devjaes/devjaes/blob/main/img/banner_v2.jpg)
 
 ### About me🧑:
-I'm a Software Engineering student with a passion for backend development and cloud technology, especially AWS. I also have basic knowledge in frontend. My focus lies in machine learning and deep learning.
+I'm a Software Engineering student with a passion for backend development and cloud technology, especially AWS. I also have knowledge in frontend. My focus lies in machine learning and deep learning.
 
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
 - 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Machine Learning developers.
+- 👯 I’m looking to collaborate with Fullstack Web developers.
 - 🤔 I’m looking for help with Open source Contribution.
-- 💬 You can ask me about Frontend, Backend, and Machine Learning.
-- ⚡ Fun fact: I 💖 to develop 24x7.
+- 💬 I enjoy to talk about Frontend, Backend, and Machine Learning.
+- ⚡ Fun fact: I 💖 to learning new things 24x7.
 
 <br/>
 <br/>
@@ -26,18 +26,18 @@ Languages and Tools🛠:
 
   <br/>
   <br/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<code><img height="20" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000"></code>
+<code><img height="20" src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
-<code><img height="20" src="https://icons-for-free.com/iconfiles/png/512/NextJS-1324888744726908747.png"></code>
+<code><img height="20" src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png"></code>
 <code><img height="20" src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg"></code>
-<code><img height="20" src="https://icons-for-free.com/iconfiles/png/512/framework+spring-1330884298236785333.png"></code>
+<code><img height="20" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000"></code>
 <br/>
 <br/>
 
@@ -83,7 +83,15 @@ Connect with me🤝:
 <br/>
 
 
-### My Projects ✨:
+### My Personal Projects ✨:
+
+<a href="https://github.com/devjaes/clothstore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devjaes&repo=clothstore&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/devjaes/cloth_store_admin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devjaes&repo=cloth_store_admin&theme=tokyonight" />
+</a>
   
 <a href="https://github.com/devjaes/pos_system_front">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devjaes&repo=pos_system_front&theme=tokyonight" />
