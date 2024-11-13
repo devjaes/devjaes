@@ -1,7 +1,9 @@
 ![ProfileBanner](https://github.com/devjaes/devjaes/blob/main/img/banner_v2.jpg)
 
 ### About me🧑:
-I'm a Software Engineering student with a passion for backend development and cloud technology, especially AWS. I also have knowledge in frontend. My focus lies in machine learning and deep learning.
+I'm a Software Engineering with a passion for backend development and cloud technology, especially AWS. I also have knowledge in frontend. My focus lies in machine learning and deep learning.
+
+I'm currently working as a FullStack Developer with Ruby on Rails and React frameworks! 🚀
 
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
