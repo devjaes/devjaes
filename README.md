@@ -32,30 +32,29 @@ Currently, I'm directing the frontend architecture for a new CRM platform and ma
 **DevOps & Testing:** ![Jest](https://img.shields.io/badge/Jest-20232A?style=flat-square&logo=jest&logoColor=C21325)
 ![Docker](https://img.shields.io/badge/Docker-20232A?style=flat-square&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032)
-![AWS](https://img.shields.io/badge/AWS-20232A?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS-20232A?style=flat-square&logo=amazonaws&logoColor=FF9900)
 
 <br/>
 
 ### 🤝 Connect with me
 
 [![Portfolio](https://img.shields.io/badge/devjaes.dev-20232A?style=flat-square&logo=astro&logoColor=22d3ee)](https://devjaes.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/jair-mera-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jair-mera-dev)
 [![Email](https://img.shields.io/badge/hello@devjaes.dev-20232A?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:hello@devjaes.dev)
 
 ---
 
 ### ✔ Github Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devjaes&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&icon_color=22d3ee&text_color=a1a1aa&line_height=27" alt="Jair's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjaes&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&text_color=a1a1aa" alt="Top Languages" />
-</p>
-
-<br/>
-
-<h3 align="center">Show ❤️ by 🌟 my <a href="https://github.com/devjaes?tab=repositories">repositories</a>!</h3>
-<br/>
-
 <div align="center">
-  ### Show ❤️ by 🌟 my <a href="https://github.com/devjaes?tab=repositories">repositories</a>!
+
+[![Jair's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjaes&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&icon_color=22d3ee&text_color=a1a1aa&cache_seconds=86400&v=1)](https://github.com/devjaes)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjaes&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&text_color=a1a1aa&cache_seconds=86400&v=1)](https://github.com/devjaes)
+
+<br/>
+<br/>
+
+### Show ❤️ by 🌟 my [repositories](https://github.com/devjaes?tab=repositories)!
+
 </div>
