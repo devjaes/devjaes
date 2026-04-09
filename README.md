@@ -48,9 +48,9 @@ Currently, I'm directing the frontend architecture for a new CRM platform and ma
 
 <div align="center">
 
-[![Jair's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjaes&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&icon_color=22d3ee&text_color=a1a1aa&cache_seconds=86400&v=1)](https://github.com/devjaes)
+[![Jair's GitHub stats](https://github-readme-stats-phi-sepia-76.vercel.app/api?username=devjaes&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&icon_color=22d3ee&text_color=a1a1aa&cache_seconds=86400&v=1)](https://github.com/devjaes)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjaes&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&text_color=a1a1aa&cache_seconds=86400&v=1)](https://github.com/devjaes)
+[![Top Langs](https://github-readme-stats-phi-sepia-76.vercel.app/api/top-langs/?username=devjaes&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&text_color=a1a1aa&cache_seconds=86400&v=1)](https://github.com/devjaes)
 
 <br/>
 <br/>
