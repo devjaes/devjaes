@@ -2,15 +2,24 @@
 
 ![ProfileBanner](https://github.com/devjaes/devjaes/blob/main/img/banner_v2.jpeg)
 
-I'm a **Full Stack Software Engineer** with a strong focus on building scalable SaaS applications and high-traffic web platforms. I thrive in the React ecosystem and enjoy architecting robust server-side APIs using TypeScript, NestJS, and Ruby on Rails.
+I'm a **Full-Stack Engineer (backend-leaning)** — Ruby · TypeScript · Go · **AWS Certified**. I build scalable SaaS, event-driven systems, and APIs for U.S.-market remote teams, with a growing focus on **fintech**.
 
-Currently, I'm directing the frontend architecture for a new CRM platform and maintaining core features for a major US digital news platform! 🚀
+Currently shipping **[TAPinto.net](https://www.tapinto.net/)** (~2M visits/mo) and architecting a greenfield CRM platform at **Senirop**. 🚀
 
-- 🌱 Currently deep-diving into **React 19, Clean Architecture, and AI Tooling**.
-- 💬 Ask me about **Frontend scalability, API design, or remote-first workflows**.
-- 👯 I'm always open to collaborating on innovative Full Stack projects.
-- 🌐 Check out my portfolio: [devjaes.dev](https://devjaes.dev)
-- ⚡ Fun fact: I 💖 learning new things 24x7 and optimizing code.
+- 🌱 Currently going deeper into **Go, event-driven systems, and AWS serverless** for fintech tooling.
+- 💬 Ask me about **event-driven systems, API design, AWS serverless, or fintech engineering**.
+- 👯 I'm always open to collaborating on innovative full-stack projects.
+- 🌐 Portfolio: **[devjaes.dev](https://devjaes.dev)**
+- 📍 Based in Ambato, Ecuador (UTC−5) · Open to remote roles (U.S. / E.U.)
+
+<br/>
+
+---
+
+### 🎓 Background
+
+- **B.S. Software Engineering** — Universidad Técnica de Ambato (2021 – 2026)
+- **AWS Certified Solutions Architect — Associate** ([verify on Credly ↗](https://www.credly.com/badges/dae7f5e9-0d0a-456d-a8bf-3476394740cc))
 
 <br/>
 
@@ -18,27 +27,33 @@ Currently, I'm directing the frontend architecture for a new CRM platform and ma
 
 ### 🛠 Languages and Tools
 
-**Frontend & Core:** ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6)
+**Backend & Cloud:** ![Ruby on Rails](https://img.shields.io/badge/Rails-20232A?style=flat-square&logo=rubyonrails&logoColor=CC0000)
+![NestJS](https://img.shields.io/badge/NestJS-20232A?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=68A063)
+![Express](https://img.shields.io/badge/Express-20232A?style=flat-square&logo=express&logoColor=fff)
+![Go](https://img.shields.io/badge/Go-20232A?style=flat-square&logo=go&logoColor=00ADD8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=336791)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-20232A?style=flat-square&logo=awslambda&logoColor=FF9900)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-20232A?style=flat-square&logo=amazons3&logoColor=FF9900)
+![Serverless](https://img.shields.io/badge/Serverless-20232A?style=flat-square&logo=serverless&logoColor=FD5750)
+
+**Frontend:** ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat-square&logo=nextdotjs&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-20232A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
-**Backend & Database:** ![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=68A063)
-![NestJS](https://img.shields.io/badge/NestJS-20232A?style=flat-square&logo=nestjs&logoColor=E0234E)
-![Express](https://img.shields.io/badge/Express-20232A?style=flat-square&logo=express&logoColor=fff)
-![Ruby on Rails](https://img.shields.io/badge/Rails-20232A?style=flat-square&logo=rubyonrails&logoColor=CC0000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=336791)
-
-**DevOps & Testing:** ![Jest](https://img.shields.io/badge/Jest-20232A?style=flat-square&logo=jest&logoColor=C21325)
-![Docker](https://img.shields.io/badge/Docker-20232A?style=flat-square&logo=docker&logoColor=2496ED)
+**DevOps & Testing:** ![Docker](https://img.shields.io/badge/Docker-20232A?style=flat-square&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-20232A?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Jest](https://img.shields.io/badge/Jest-20232A?style=flat-square&logo=jest&logoColor=C21325)
+![Playwright](https://img.shields.io/badge/Playwright-20232A?style=flat-square&logo=playwright&logoColor=2EAD33)
 ![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032)
-![AWS](https://img.shields.io/badge/AWS-20232A?style=flat-square&logo=amazonaws&logoColor=FF9900)
 
 <br/>
 
 ### 🤝 Connect with me
 
-[![Portfolio](https://img.shields.io/badge/devjaes.dev-20232A?style=flat-square&logo=astro&logoColor=22d3ee)](https://devjaes.dev)
+[![Portfolio](https://img.shields.io/badge/devjaes.dev-20232A?style=flat-square&logo=googlechrome&logoColor=22d3ee)](https://devjaes.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jair-mera-dev)
 [![Email](https://img.shields.io/badge/hello@devjaes.dev-20232A?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:hello@devjaes.dev)
 
