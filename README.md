@@ -2,7 +2,7 @@
 
 ![ProfileBanner](https://github.com/devjaes/devjaes/blob/main/img/banner_v2.jpeg)
 
-I'm a **Full-Stack Engineer (backend-leaning)** — Ruby · TypeScript · Go · **AWS Certified**. I build scalable SaaS, event-driven systems, and APIs for U.S.-market remote teams, with a growing focus on **fintech**.
+I'm a **Full-Stack Engineer (backend-leaning)** - Ruby · TypeScript · Go · **AWS Certified**. I build scalable SaaS, event-driven systems, and APIs for U.S.-market remote teams, with a growing focus on **fintech**.
 
 Currently shipping **[TAPinto.net](https://www.tapinto.net/)** (~2M visits/mo) and architecting a greenfield CRM platform at **Senirop**. 🚀
 
@@ -18,8 +18,8 @@ Currently shipping **[TAPinto.net](https://www.tapinto.net/)** (~2M visits/mo) a
 
 ### 🎓 Background
 
-- **B.S. Software Engineering** — Universidad Técnica de Ambato (2021 – 2026)
-- **AWS Certified Solutions Architect — Associate** ([verify on Credly ↗](https://www.credly.com/badges/dae7f5e9-0d0a-456d-a8bf-3476394740cc))
+- **B.S. Software Engineering** - Universidad Técnica de Ambato (2021 - 2026)
+- **AWS Certified Solutions Architect - Associate** ([verify on Credly ↗](https://www.credly.com/badges/dae7f5e9-0d0a-456d-a8bf-3476394740cc))
 
 <br/>
 
